@@ -83,5 +83,5 @@ ZWGraphicView.h的代码如下：
 
 ```
 # 演示效果
-
+![image](https://github.com/xzwgithub/ZWGraphicView/blob/master/ZWGraphicViewDemo/ZWGraphicViewDemo/demo演示.gif)
 
